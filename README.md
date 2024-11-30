@@ -47,7 +47,7 @@ The model uses the following input features:
 
  ---
  
-  ## 📊 Visualizations  
+  ## 📊  Model Visualizations  
 
 ![plot-visual](https://github.com/user-attachments/assets/87c90a7a-ee31-44e7-86d5-df0018227d06)
 
