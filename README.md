@@ -133,9 +133,9 @@ python models/student-predictor.pkl
 
 ## 🌐 Links to Explore
 
--  **Requirements**: [Summative Requirements](https://github.com/MohamedAYasin/MLOPS-Student-Success/blob/main/Machine_Learning_Pipeline%20-%20Summative_Assignment.pdf)
+-  **Requirements**: [https://github.com/MohamedAYasin/MLOPS-Student-Success/blob/main/Machine_Learning_Pipeline%20-%20Summative_Assignment.pdf]
 -  **Dataset Source**: [Dataset](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention/data)
-- **API Link**: [FastApi](https://student-status-check-model.onrender.com/docs)
+- **API Link**: [https://student-status-check-model.onrender.com/docs]
 -  **YouTube Demo Video**: [https://www.youtube.com/watch?v=f-fNMZBjdm8)
   
 ---
