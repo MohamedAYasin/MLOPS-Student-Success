@@ -1,5 +1,8 @@
 # 🎓 Student Success Prediction Model  
 
+![studyhard](https://github.com/user-attachments/assets/5bf4310a-5f3f-4f67-8e6e-56b6cee55f3e)
+
+
 ## 📝 Project Brief  
 This project leverages machine learning to predict student success or dropout risk based on academic and demographic data. The model helps educational institutions identify students at risk and implement timely interventions to improve retention and outcomes.  
 
