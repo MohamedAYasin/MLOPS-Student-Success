@@ -116,9 +116,9 @@ python model/model.pkl
 ## 🌐 Links to Explore  
 
 - **YouTube Demo Video**: [Demo Video](https://example.com)  
-- **API Link**: [Fas](https://example.com)  
-- **Dataset Source**: [Dataset Link](https://example.com)  
-
+- **API Link**: [Fastapi Link](https://example.com)
+-  **Rquirements**: [Summative Requirements](https://github.com/MohamedAYasin/MLOPS-Student-Success/blob/main/Machine_Learning_Pipeline%20-%20Summative_Assignment.pdf)
+- **Dataset Source**: [Dataset Link](https://example.com)
 ---
 
 ## ⚡ Load Testing with Locust  
