@@ -1,0 +1,23 @@
+feature,mean,std
+Course,1.0841850164183501e-16,0.9999999999999999
+Daytime/evening attendance	,-4.6178250699300097e-17,0.9999999999999999
+Previous qualification,-1.2548437690027201e-17,0.9999999999999999
+Previous qualification (grade),8.297027000645985e-16,0.9999999999999999
+Admission grade,-4.27650756476127e-16,1.0
+Educational special needs,6.424800097293927e-17,0.9999999999999997
+Tuition fees up to date,9.63720014594089e-17,0.9999999999999998
+Gender,1.1644950176345242e-16,1.0
+Scholarship holder,-4.216275063849139e-17,1.0
+Age at enrollment,7.428675112496102e-17,1.0
+Curricular units 1st sem (credited),8.281968875417952e-17,0.9999999999999999
+Curricular units 1st sem (enrolled),1.2046500182426113e-16,0.9999999999999999
+Curricular units 1st sem (evaluations),-6.224025094253491e-17,1.0
+Curricular units 1st sem (approved),1.3251150200668725e-16,1.0
+Curricular units 1st sem (grade),2.4093000364852224e-17,0.9999999999999999
+Curricular units 1st sem (without evaluations),3.011625045606528e-18,1.0
+Curricular units 2nd sem (credited),1.0339912656582414e-16,0.9999999999999999
+Curricular units 2nd sem (enrolled),1.4054250212830465e-16,0.9999999999999999
+Curricular units 2nd sem (evaluations),8.031000121617408e-18,0.9999999999999999
+Curricular units 2nd sem (approved),1.1042625167223936e-16,1.0
+Curricular units 2nd sem (grade),6.625575100334362e-17,1.0
+Curricular units 2nd sem (without evaluations),1.0440300158102631e-16,1.0000000000000002
