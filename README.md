@@ -1,4 +1,4 @@
-# 🎓 Student Success Prediction Model  
+# 🎓 Student Status Prediction Model  
 
 ![studyhard](https://github.com/user-attachments/assets/5bf4310a-5f3f-4f67-8e6e-56b6cee55f3e)
 
