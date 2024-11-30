@@ -56,6 +56,9 @@ The model uses the following input features:
  
   ## 📊  Model Visualizations  
 
+- Dropout = 0
+- Graduate = 1
+- Enrolled = 2
   
 ### Visualization of the total number of students dropout, graduate and enrolled w.r.t Course
 
