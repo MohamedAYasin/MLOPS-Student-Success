@@ -126,7 +126,7 @@ Contains Pickle (.pkl) file:
 Purpose: Stores the fitted StandardScaler object for feature scaling.
 
 ```bash  
-python model/model.pkl  
+python models/student-predictor.pkl  
 ```  
 
 ---
