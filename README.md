@@ -40,7 +40,16 @@ The model uses the following input features:
 - Gender  
 - Scholarship holder  
 - Age at enrollment  
-- Curricular units (credited, enrolled, evaluations, approved, grades, without evaluations) for the 1st and 2nd semesters  
+- Curricular units (credited, enrolled, evaluations, approved, grades, without evaluations) for the 1st and 2nd semesters
+
+ ---
+ 
+  ## 📊 Visualizations  
+
+
+
+---
+
 
 ---
 
@@ -58,7 +67,12 @@ The model uses the following input features:
 
 ## 🛠️ Preprocessing  
 
-To preprocess the data, run:  
+The src/preprocessing.py file contains the following main functions:
+
+- load_and_preprocess_data(file_path): Loads the CSV file, splits features and target, scales the features using StandardScaler, and saves the scaler.
+- load_scaler(): Loads the saved StandardScaler object.
+To run preprocessing:
+
 ```bash  
 python src/preprocessing.py  
 ```  
@@ -67,32 +81,39 @@ python src/preprocessing.py
 
 ## 🧠 Model Training  
 
-To train the model, use:  
+The src/model.py file contains the following main functions:
+
+- create_model(): Creates and compiles the neural network model.
+- train_model(X_train, y_train, epochs=80, batch_size=128): Trains the model with early stopping.
+- evaluate_model(model, X_test, y_test): Evaluates the trained model on test data.
+- plot_training_history(history): Plots the training and validation accuracy/loss.
+  
+To train the model:
+
 ```bash  
 python src/model.py  
 ```  
 
 ---
 
-## 🔮 Predictions  
+## 🔮 Model Predictions  
 
-Make predictions with the trained model:  
+Contains Pickle (.pkl) file:
+
+`Location: models/model.pkl`
+
+Purpose: Stores the fitted StandardScaler object for feature scaling.
+
 ```bash  
-python src/prediction.py  
+python model/model.pkl  
 ```  
 
 ---
 
-## 📊 Visualizations  
+## 🌐 Links to Explore  
 
-
-
----
-
-## 🌐 Links  
-
-- **YouTube Demo Video**: [Model API on Render](https://example.com)  
-- **API Link**: [Watch the Demo](https://example.com)  
+- **YouTube Demo Video**: [Demo Video](https://example.com)  
+- **API Link**: [Fas](https://example.com)  
 - **Dataset Source**: [Dataset Link](https://example.com)  
 
 ---
@@ -128,7 +149,8 @@ jupyter notebook
 The notebook includes:  
 - Data exploration  
 - Preprocessing steps  
-- Model training  
+- Model training
+- Retraining set up
 - Evaluation and visualizations  
 
 ---  
