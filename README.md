@@ -74,7 +74,7 @@ git clone https://github.com/mohamedayasin/student-success.git
    cd student-success
 ``` 
 
-    ```
+---
     
 ## 🛠️ Preprocessing  
 
