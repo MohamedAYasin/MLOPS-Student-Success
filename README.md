@@ -3,7 +3,7 @@
 ![studyhard](https://github.com/user-attachments/assets/5bf4310a-5f3f-4f67-8e6e-56b6cee55f3e)
 
 
-## 📝 Project Brief  
+## 📝 Project Overview
 Student dropout and academic underperformance are significant challenges in higher education institutions, impacting both the students' futures and institutional effectiveness. Early identification of at-risk students is crucial for implementing timely interventions and support systems.
 
 This project addresses these challenges by developing a machine learning model that predicts both student dropout probability and academic performance. The model analyzes various demographic, social, economic, and academic factors to generate accurate predictions.
