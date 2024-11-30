@@ -49,7 +49,11 @@ The model uses the following input features:
  
   ## 📊 Visualizations  
 
+![plot-visual](https://github.com/user-attachments/assets/87c90a7a-ee31-44e7-86d5-df0018227d06)
 
+![plotting](https://github.com/user-attachments/assets/d9c5ddf1-4164-43c0-a37c-b7af7322b100)
+
+![confusionmatrix](https://github.com/user-attachments/assets/a0200ab4-3bbb-4a74-87d2-ae04d1c26c20)
 
 ---
 
