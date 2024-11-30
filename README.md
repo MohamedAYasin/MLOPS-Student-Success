@@ -119,10 +119,10 @@ python model/model.pkl
 
 ## 🌐 Links to Explore  
 
-- **YouTube Demo Video**: [Demo Video](https://example.com)  
-- **API Link**: [Fastapi Link](https://example.com)
--  **Rquirements**: [Summative Requirements](https://github.com/MohamedAYasin/MLOPS-Student-Success/blob/main/Machine_Learning_Pipeline%20-%20Summative_Assignment.pdf)
-- **Dataset Source**: [Dataset Link](https://example.com)
+- **YouTube Demo Video**: [Demo Video](https://)  
+- **API Link**: [FastApi](https://student-status-check-model.onrender.com/docs)
+-  **Requirements**: [Summative Requirements](https://github.com/MohamedAYasin/MLOPS-Student-Success/blob/main/Machine_Learning_Pipeline%20-%20Summative_Assignment.pdf)
+- **Dataset Source**: [Dataset](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention/data)
 ---
 
 ## ⚡ Load Testing with Locust  
