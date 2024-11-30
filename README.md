@@ -4,7 +4,15 @@
 
 
 ## 📝 Project Brief  
-This project leverages machine learning to predict student success or dropout risk based on academic and demographic data. The model helps educational institutions identify students at risk and implement timely interventions to improve retention and outcomes.  
+Student dropout and academic underperformance are significant challenges in higher education institutions, impacting both the students' futures and institutional effectiveness. Early identification of at-risk students is crucial for implementing timely interventions and support systems.
+
+This project addresses these challenges by developing a machine learning model that predicts both student dropout probability and academic performance. The model analyzes various demographic, social, economic, and academic factors to generate accurate predictions.
+
+By leveraging historical student data and advanced analytics, institutions can proactively identify students who may need additional support, enabling targeted interventions before academic issues become critical.
+
+The solution involves training a model that predicts student study status and then predict if they will dropout or continue their studies until graduation.
+
+The model also considers multiple factors including enrollment data, academic performance, socio-economic indicators, and previous educational background to provide comprehensive insights into student success patterns.
 
 ---
 
@@ -57,21 +65,21 @@ The model uses the following input features:
 
 ---
 
-
----
-
 ## 🚀 Setup Instructions  
 
-1. Ensure Python 3.9+ is installed.  
-2. Clone this repository:  
+1. Ensure Python 3.9+ is installed in your system.  
+2. Clone this repository:
+   
    ```bash  
    git clone https://github.com/mohamedayasin/student-success.git  
    cd student-success 
+    ```
    
-   ```  
-
----
-
+  ```bash  
+   cd student-success 
+   
+   ```
+   
 ## 🛠️ Preprocessing  
 
 The src/preprocessing.py file contains the following main functions:
