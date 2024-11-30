@@ -50,7 +50,7 @@ The model uses the following input features:
 - Gender  
 - Scholarship holder  
 - Age at enrollment  
-- Curricular units (credited, enrolled, evaluations, approved, grades, without evaluations) for the 1st and 2nd semesters
+- Curricular units (credited, enrolled, evaluations, approved, grades, without evaluations) for the 1st and 2nd semesters.
 
  ---
  
@@ -69,12 +69,12 @@ The model uses the following input features:
 1. Ensure Python 3.9+ is installed in your system.  
 2. Clone this repository:
    
-   ```bash  
+```bash  
    git clone https://github.com/mohamedayasin/student-success.git  
-   cd student-success 
+   
     ```
    
-  ```bash  
+```bash  
    cd student-success 
    
    ```
