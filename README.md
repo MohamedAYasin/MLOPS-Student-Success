@@ -4,15 +4,14 @@
 
 
 ## 📝 Project Overview
-Student dropout and academic underperformance are significant challenges in higher education institutions, impacting both the students' futures and institutional effectiveness. Early identification of at-risk students is crucial for implementing timely interventions and support systems.
 
-This project addresses these challenges by developing a machine learning model that predicts both student dropout probability and academic performance. The model analyzes various demographic, social, economic, and academic factors to generate accurate predictions.
+Student dropout and academic underperformance are critical challenges in higher education, affecting both students' futures and institutional effectiveness. Early identification of at-risk students is essential for implementing timely interventions and support systems.
 
-By leveraging historical student data and advanced analytics, institutions can proactively identify students who may need additional support, enabling targeted interventions before academic issues become critical.
+This project tackles these challenges by building a machine learning model to predict student dropout probability and academic performance. The model analyzes a range of demographic, social, economic, and academic factors to deliver accurate predictions.
 
-The solution involves training a model that predicts student study status and then predict if they will dropout or continue their studies until graduation.
+Using historical student data and advanced analytics, institutions can proactively identify students who may require additional support, enabling targeted interventions before academic issues escalate.
 
-The model also considers multiple factors including enrollment data, academic performance, socio-economic indicators, and previous educational background to provide comprehensive insights into student success patterns.
+The solution involves training a model to predict students' study status—whether they are likely to drop out or continue their studies until graduation. It considers multiple factors such as enrollment data, academic performance, socio-economic indicators, and previous educational background to provide comprehensive insights into student success patterns.
 
 ---
 
