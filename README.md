@@ -71,14 +71,10 @@ The model uses the following input features:
    
 ```bash  
    git clone https://github.com/mohamedayasin/student-success.git  
-   
+   cd student-success
+
     ```
-   
-```bash  
-   cd student-success 
-   
-   ```
-   
+    
 ## 🛠️ Preprocessing  
 
 The src/preprocessing.py file contains the following main functions:
