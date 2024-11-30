@@ -68,10 +68,11 @@ The model uses the following input features:
 
 1. Ensure Python 3.9+ is installed in your system.  
 2. Clone this repository:
-   
+
 ```bash  
-   git clone https://github.com/mohamedayasin/student-success.git  
+git clone https://github.com/mohamedayasin/student-success.git  
    cd student-success
+``` 
 
     ```
     
