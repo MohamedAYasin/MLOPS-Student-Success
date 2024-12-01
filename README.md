@@ -174,8 +174,6 @@ jupyter notebook
   
 -  **YouTube Demo Video**: [https://youtu.be/miRypThOdD4)
 
-- **Streamlit UI Demo Video**: [https://youtu.be/) 
-  
 ---
 
                                                    `Mohamed Ahmed Yasin` 😊
