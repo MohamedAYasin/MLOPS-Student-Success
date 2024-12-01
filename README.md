@@ -144,11 +144,6 @@ To simulate high traffic, install and run Locust:
    locust -f locustfile.py --host=https://student-success-model.onrender.com  
    ```  
 
----
-
-## 📝 Additional Notes  
-
-
 
 ---  
 
@@ -159,7 +154,8 @@ For an interactive exploration of the project, open the Jupyter/Google Colab not
 jupyter notebook  
 ```  
 
-The notebook includes:  
+## 📝 The notebook includes:  
+
 - Data exploration  
 - Preprocessing steps  
 - Model training
@@ -170,13 +166,15 @@ The notebook includes:
 
 ## 🌐 Project Links to Explore
 
--  **Requirements**: [summative requirments](https://github.com/MohamedAYasin/MLOPS-Student-Success/blob/main/Machine_Learning_Pipeline%20-%20Summative_Assignment.pdf)
+-  **Requirements**: [summative requirements](https://github.com/MohamedAYasin/MLOPS-Student-Success/blob/main/Machine_Learning_Pipeline%20-%20Summative_Assignment.pdf)
 
 -  **Dataset Source**: [Dataset](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention/data)
   
 - **API Link**: [https://student-status-check-model.onrender.com/docs]
   
--  **YouTube Demo Video**: [https://www.youtube.com/watch?v=f-fNMZBjdm8)
+-  **YouTube Demo Video**: [https://youtu.be/miRypThOdD4)
+
+- **Streamlit UI Demo Video**: [https://youtu.be/) 
   
 ---
 
