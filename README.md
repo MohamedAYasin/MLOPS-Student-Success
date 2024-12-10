@@ -162,7 +162,38 @@ jupyter notebook
 - Retraining set up
 - Evaluation and visualizations  
 
----  
+--- 
+
+## 📱 Flutter App  
+
+I developed a Flutter application that provides a user-friendly interface for interacting with the **Student Status Prediction Model**. The app consists of three main pages:
+
+1. **Homepage**  
+   - Displays various visualizations from the model, such as student status distributions and confusion matrices.
+   - Helps users understand key insights and patterns from the data.
+
+   ![home](https://github.com/user-attachments/assets/794ea46f-3d93-4cae-b220-e1997519e367)
+
+2. **Predict Page**  
+   - Allows users to input features like course attendance, age, and admission grade to predict a student's status (Dropout, Graduate, or Enrolled).
+   - Integrates with the machine learning API to fetch predictions.
+
+   ![predict](https://github.com/user-attachments/assets/bc2dfdbc-c239-4f79-b52f-4c395e4f7a06)
+
+3. **Retrain Page**  
+   - Facilitates model retraining by allowing users to upload updated datasets.
+   - Once retrained, users can download the newly trained model for further usage.
+
+   ![retrain](https://github.com/user-attachments/assets/8b12ddc6-0f81-4646-a4f4-2ce153bdcbb0)
+
+### Key Features of the App:  
+- **Intuitive Design**: Simple navigation to ensure seamless user experience.  
+- **API Integration**: Communicates with the backend for predictions and retraining processes.  
+- **Dynamic Updates**: Supports adding new data and retraining models on the fly.  
+- **Visualization Tools**: Displays model outputs and metrics for better understanding.  
+
+By leveraging this app, institutions can make data-driven decisions, monitor student performance trends, and deploy targeted interventions to enhance educational outcomes. 😊
+
 
 ## 🌐 Project Links to Explore
 
