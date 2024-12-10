@@ -56,4 +56,4 @@ Welcome to the **Student Status Prediction Web App**, a Streamlit-based tool for
 
 ---  
 
-                                               `Enjoy predicting student outcomes! 🎓`  
+                                               Enjoy predicting student outcomes! 🎓
