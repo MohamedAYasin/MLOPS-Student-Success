@@ -194,6 +194,7 @@ I developed a Flutter application that provides a user-friendly interface for in
 
 By leveraging this app, institutions can make data-driven decisions, monitor student performance trends, and deploy targeted interventions to enhance educational outcomes. 😊
 
+---
 
 ## 🌐 Project Links to Explore
 
