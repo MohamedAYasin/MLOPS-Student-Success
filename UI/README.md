@@ -10,9 +10,9 @@ Welcome to the **Student Status Prediction Web App**, a Streamlit-based tool for
 - A single, intuitive page for streamlined functionality.  
 - Input fields for student details such as course, attendance type, grades, and more.  
 - Predicts the student’s status as:  
-  - **0**: Dropout  
-  - **1**: Graduate  
-  - **2**: Enrolled  
+  - **Dropout**
+  - **Graduate**
+  - **Enrolled**
 
 ---
 
